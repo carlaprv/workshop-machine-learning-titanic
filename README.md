@@ -1,4 +1,4 @@
-# Machine Learning Workshop - Exploring survival on the Titanic
+# ML Workshop: exploring survival on the Titanic
 
 This Jupyter Notebook was used do give a workshop about Machine Learning with Python in Brazil with the support of [Womakerscode Community](https://github.com/WoMakersCode).
 
