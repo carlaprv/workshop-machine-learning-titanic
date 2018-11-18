@@ -1,6 +1,6 @@
 # ML Workshop: exploring survival on the Titanic
 
-This Jupyter Notebook was used do give a workshop about Machine Learning with Python in Brazil with the support of [Womakerscode Community](https://github.com/WoMakersCode).
+This Jupyter Notebook was used do give a workshop about Machine Learning with Python in Brazil with the support of [WoMakersCode Community](https://github.com/WoMakersCode).
 
 
 ## Getting Started
@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 * Python 3
-* Jupyter Notebook (I reccomend using [Anaconda](https://www.anaconda.com/download/))
+* Jupyter Notebook (I recommend using [Anaconda](https://www.anaconda.com/download/))
 
 
 ### Installing
