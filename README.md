@@ -2,10 +2,6 @@
 
 This Jupyter Notebook was used do give a workshop about Machine Learning with Python in Brazil with the support of [WoMakersCode Community](https://github.com/WoMakersCode).
 
-![alt text](https://user-images.githubusercontent.com/2198735/34808410-fa314386-f675-11e7-9dbf-3dd9b06534d8.png){:width="200px"}
-
-
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
