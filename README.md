@@ -1,86 +1,36 @@
 # ML Workshop: exploring survival on the Titanic
 
-This Jupyter Notebook was used do give a workshop about Machine Learning with Python in Brazil with the support of [WoMakersCode Community](https://github.com/WoMakersCode).
+This Jupyter Notebook was used to give a workshop about Machine Learning with Python in Brazil with the support of [WoMakersCode Community](https://github.com/WoMakersCode).
+
+The Notebook is a Machine Learning Solution to a Kaggle Competition. You can read more about the challenge here: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and learning purposes. 
 
 ### Prerequisites
 
-* Python 3
+* Python 3.7
 * Jupyter Notebook (I recommend using [Anaconda](https://www.anaconda.com/download/))
 
+### Download/Clone repository
 
-### Installing
+Download or clone this repository to your machine (it includes jupyter notebook and titanic)
 
-A step by step series of examples that tell you how to get a development env running
+### Start your own ```Jupyter Notebook```
 
-Say what the step will be
+**Windows**
 
-```
-Give the example
-```
+Inside your project folder with all the files from this repository, open cmd and run the command ```jupyter notebook```. Your cdm should looke like the image below:
 
-And repeat
+![Image of cmd running Jupyter](https://i.imgur.com/imfl23W.png)
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Now, you are all started and it should open a new tab on your browser running Jupyter.
 
 ## Authors
 
 * **Carla Vieira** - [@carlaprvieira](https://twitter.com/carlaprvieira)
 
-Inspired by [Megan Risdal notebook on Kaggle](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic).
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [Megan Risdal notebook on Kaggle](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic).
