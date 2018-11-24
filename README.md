@@ -21,7 +21,7 @@ Download or clone this repository to your machine (it includes jupyter notebook 
 
 **Windows**
 
-Inside your project folder with all the files from this repository, open cmd and run the command ```jupyter notebook```. Your cdm should looke like the image below:
+Inside your project folder with all the files from this repository, open cmd and run the command ```jupyter notebook```. Your cmd should looke like the image below:
 
 ![Image of cmd running Jupyter](https://i.imgur.com/imfl23W.png)
 
