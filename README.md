@@ -4,6 +4,8 @@ This Jupyter Notebook was used to give a workshop about Machine Learning with Py
 
 The Notebook is a Machine Learning Solution to a Kaggle Competition. You can read more about the challenge here: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
 
+You can access the slides used in the workshop here: [Workshop Slides Presentation](https://docs.google.com/presentation/d/1eCrsY8pIv_QuNHgESFZ19uwhmPx1EcADDQRdX-3mWv8/edit?usp=sharing)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and learning purposes. 
