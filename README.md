@@ -33,4 +33,8 @@ Now, you are all started and it should open a new tab on your browser running Ju
 
 ## Acknowledgments
 
-* [Megan Risdal notebook on Kaggle](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic).
+* [Megan Risdal notebook on Kaggle](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic)
+* [Classificando Músicas do Spotify com SVM (Com Códigos Python)](http://minerandodados.com.br/index.php/2018/04/04/spotify-svm-python/)
+* [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
+* [Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html)
+
